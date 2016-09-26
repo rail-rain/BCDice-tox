@@ -1,0 +1,6 @@
+[submodule "BCDice"]
+	path = BCDice
+	url = git://github.com/torgtaitai/BCDice.git
+[submodule "toxwrapper"]
+	path = toxwrapper
+	url = ./toxwrapper/
