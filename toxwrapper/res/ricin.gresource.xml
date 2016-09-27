@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/chat/tox/ricin">
+        <!-- <file preprocess="xml-stripblanks" compressed="true">ui/main-window.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/profile-chooser-window.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/friend-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/status-message-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/system-message-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/inline-image-message-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/inline-file-message-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/message-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/quote-message-list-row.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/quote-label.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/password-dialog.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/plain-label.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/chat-view.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/settings-view.ui</file>
+        <file preprocess="xml-stripblanks" compressed="true">ui/welcome-view.ui</file> -->
+
+        <!-- <file compressed="true">themes/app.css</file>
+        <file compressed="true">themes/clearer.css</file>
+        <file compressed="true">themes/dark.css</file>
+        <file compressed="true">themes/reset.css</file>
+        <file compressed="true">themes/white.css</file> -->
+
+        <file compressed="true">nodes.json</file>
+        <!-- <file compressed="true">ricin.sample.json</file> -->
+
+        <!-- <file>images/noavatar.gif</file> -->
+
+        <!-- <file>images/icons/ricin.svg</file>
+        <file>images/icons/ricin_logo.png</file> -->
+
+        <!-- <file>images/status/busy.png</file>
+        <file>images/status/busy_notification.png</file>
+        <file>images/status/idle.png</file>
+        <file>images/status/idle_notification.png</file>
+        <file>images/status/online.png</file>
+        <file>images/status/online_notification.png</file>
+        <file>images/status/offline.png</file>
+        <file>images/status/offline_notification.png</file>
+        <file>images/status/invisible.png</file> -->
+    </gresource>
+</gresources>

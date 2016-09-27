@@ -1,0 +1,733 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Eternal Sorrow <eternal.sorrow@yandex.ru>, 2016
+# Eternal Sorrow <sergamena@inbox.ru>, 2016
+# Chernobrov Michael, 2016
+# Roman Boldyrev <talipomin@protonmail.com>, 2016
+# Roman Stobenski, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: Ricin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-02 21:20+0200\n"
+"PO-Revision-Date: 2016-07-02 19:51+0000\n"
+"Last-Translator: Eternal Sorrow <eternal.sorrow@yandex.ru>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/ricinapp/ricin/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: src/ChatView.vala:387
+msgid " is now "
+msgstr "теперь"
+
+#: src/Wrapper.vala:260
+msgid " is now known as "
+msgstr "также известен как"
+
+#: res/ui/chat-view.ui:517
+msgid "**bold**"
+msgstr "**жирный**"
+
+#: res/ui/chat-view.ui:506
+msgid "*bold*"
+msgstr "*жирный*"
+
+#: res/ui/chat-view.ui:553
+msgid "//italic//"
+msgstr "//курсив//"
+
+#: res/ui/chat-view.ui:542
+msgid "/italic/"
+msgstr "/курсив/"
+
+#: res/ui/friend-list-row.ui:101
+msgid "10"
+msgstr "10"
+
+#: res/ui/friend-list-notification_unusable.ui:42
+msgid ""
+"3 unused profiles found:\n"
+"<b>Snow, Guy, Aztek</b>"
+msgstr "Найдено 3 неиспользуемых профиля(-ей):\n<b>Snow, Guy, Aztek</b>"
+
+#: res/ui/settings-view.ui:801
+msgid "9050"
+msgstr "9050"
+
+#: res/ui/chat-view.ui:293
+msgid "<b>Available Markdown tags</b>"
+msgstr "<b>Доступные теги Markdown</b>"
+
+#: res/ui/settings-view.ui:1065
+msgid "<b>Display friend's status changes?</b>"
+msgstr "<b>Отобразить изменения в статусе друзей?</b>"
+
+#: res/ui/settings-view.ui:887
+msgid "<b>Enable custom themes?</b>"
+msgstr "<b>Включить пользовательские темы?</b>"
+
+#: res/ui/group-chat-view.ui:219
+msgid "<b>Friends</b>"
+msgstr "<b>Друзья</b>"
+
+#: res/ui/settings-view.ui:672
+msgid "<b>IPv6</b>"
+msgstr "<b>IPv6</b>"
+
+#: res/ui/settings-view.ui:1008
+msgid "<b>Language:</b>"
+msgstr "<b>Язык:</b>"
+
+#: src/Wrapper.vala:784
+msgid "<b>Last online:</b>"
+msgstr "<b>Был онлайн:</b>"
+
+#: res/ui/chat-view.ui:1125
+msgid "<b>Last seen:</b>"
+msgstr "<b>Последний раз замечен:</b>"
+
+#: res/ui/settings-view.ui:736
+msgid "<b>Proxy (SOCKS 5)</b>"
+msgstr "<b>Прокси (SOCKS 5)</b>"
+
+#: res/ui/settings-view.ui:1470
+msgid ""
+"<b>Ricin</b> aims to be a <i>secure, lightweight, hackable and fully-"
+"customizable</i> chat client using the awesome and open-source "
+"<b>ToxCore</b> library."
+msgstr "Цель проекта <b>Ricin</b> - создание <i>безопасного, легковесного, модифицируемого и полностью настраиваемого</i> клиента чата, использующего отличную библиотеку <b>ToxCore</b> с открытым исходным кодом."
+
+#: res/ui/settings-view.ui:1250
+msgid "<b>Send typing notifications?</b>"
+msgstr "<b>Отправлять уведомления о наборе?</b>"
+
+#: res/ui/settings-view.ui:634
+msgid "<b>UDP</b>"
+msgstr "<b>UDP</b>"
+
+#: res/ui/group-chat-view.ui:247
+msgid "<b>Unknown peers</b>"
+msgstr "<b>Неизвестные пиры</b>"
+
+#: res/ui/settings-view.ui:1429
+msgid "<b>Version:</b>"
+msgstr "<b>Версия:</b>"
+
+#: res/ui/settings-view.ui:281
+msgid "<b>Your Tox alias:</b>"
+msgstr "<b>Ваш псевдоним Tox:</b>"
+
+#: res/ui/settings-view.ui:75
+msgid "<b>Your ToxID:</b>"
+msgstr "<b>Ваш ToxID:</b>"
+
+#: res/ui/chat-view.ui:1673
+msgid "<i>Friend is typing</i>"
+msgstr "<b>Друг печатает</b>"
+
+#: res/ui/chat-view.ui:455
+msgid ">quote"
+msgstr ">цитата"
+
+#: res/ui/settings-view.ui:1648
+msgid "About"
+msgstr "О программе"
+
+#: res/ui/main-window.ui:377
+msgid "Accept"
+msgstr "Принять"
+
+#: res/ui/inline-file-message-list-row.ui:205
+msgid "Accept/Resume file"
+msgstr "Принять/возобновить файл"
+
+#: src/MainWindow.vala:609 src/MainWindow.vala:620 src/MainWindow.vala:645
+#: src/MainWindow.vala:659 res/ui/main-window.ui:475 res/ui/main-window.ui:542
+msgid "Add a friend"
+msgstr "Добавить друга"
+
+#: res/ui/main-window.ui:617
+msgid "Add friend"
+msgstr "Добавить в друзья"
+
+#: res/ui/settings-view.ui:191
+msgid "Add password"
+msgstr "Добавить пароль"
+
+#: src/MainWindow.vala:179
+msgid "All friends"
+msgstr "Все друзья"
+
+#: res/ui/chat-view.ui:352
+msgid "Alt syntax"
+msgstr "Альтернативный синтаксис"
+
+#: src/MainWindow.vala:508 src/Util.vala:166
+msgid "Away"
+msgstr "Отошёл"
+
+#: res/ui/settings-view.ui:347
+msgid "Biography"
+msgstr "Биография"
+
+#: src/ChatView.vala:561 res/ui/chat-view.ui:1227
+msgid "Block"
+msgstr "Заблокировать"
+
+#: src/FriendListRow.vala:90
+msgid "Block friend"
+msgstr "Заблокировать друга"
+
+#: src/Util.vala:160
+msgid "Blocked"
+msgstr "Заблокированные"
+
+#: res/ui/chat-view.ui:492
+msgid "Bold"
+msgstr "Жирный"
+
+#: src/MainWindow.vala:498 src/Util.vala:169
+msgid "Busy"
+msgstr "Занят"
+
+#: res/ui/chat-view.ui:854
+msgid "Call friend"
+msgstr "Звонок другу"
+
+#: src/MainWindow.vala:110
+msgid "Can't load the profile"
+msgstr "Невозможно загрузить профиль"
+
+#: res/ui/main-window.ui:638
+msgid "Cancel"
+msgstr "Отмена"
+
+#: res/ui/inline-file-message-list-row.ui:175
+msgid "Cancel/pause file"
+msgstr "Отменить/приостановить файл"
+
+#: res/ui/settings-view.ui:104
+msgid "Change Nospam"
+msgstr "Сменить nospam"
+
+#: res/ui/settings-view.ui:208
+msgid "Change password"
+msgstr "Изменить пароль"
+
+#: res/ui/main-window.ui:87
+msgid "Change your avatar"
+msgstr "Изменить аватар"
+
+#: res/ui/main-window.ui:134
+msgid "Change your status"
+msgstr "Изменить статус"
+
+#: res/ui/settings-view.ui:601
+msgid ""
+"Changing Network settings will temporarily disconnect you from the Tox "
+"network"
+msgstr "Изменение настроек сети временно отключит вас от сети Tox"
+
+#: src/SettingsView.vala:447
+msgid ""
+"Changing your password will cause Ricin to decrypt your profile then re-"
+"encrypt it with the new password."
+msgstr "При изменении пароля Ваш профиль будет расшифрован и зашифрован вновь с новым паролем."
+
+#: src/ChatView.vala:628
+msgid "Choose a file"
+msgstr "Выберите файл"
+
+#: src/SettingsView.vala:393
+msgid "Choose a folder where to save files"
+msgstr "Выберите папку для сохранения файлов"
+
+#: src/ProfileChooser.vala:142
+msgid "Choose a name for the profile"
+msgstr "Выберите имя профиля"
+
+#: res/ui/settings-view.ui:535
+msgid "Choose directory"
+msgstr "Выберите директорию"
+
+#: res/ui/chat-view.ui:1474
+msgid "Choose smileys"
+msgstr "Выбрать смайлы"
+
+#: src/SettingsView.vala:98
+msgid "Clearer theme"
+msgstr "Чистая тема"
+
+#: res/ui/chat-view.ui:1373
+msgid "Close the popup"
+msgstr "Закрыть уведомление"
+
+#: res/ui/settings-view.ui:1307
+msgid "Compact friend list?"
+msgstr "Сжать список конткктов?"
+
+#: res/ui/password-dialog.ui:176
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: res/ui/settings-view.ui:1538
+msgid "Contributors"
+msgstr "Участники"
+
+#: res/ui/settings-view.ui:86 res/ui/settings-view.ui:303
+msgid "Copy"
+msgstr "Копировать"
+
+#: res/ui/chat-view.ui:1267
+msgid "Copy friend's ToxID"
+msgstr "Копировать ToxID друга"
+
+#: src/ChatView.vala:433
+msgid "Copy quote in clipboard"
+msgstr "Скопировать цитату в буфер обмена"
+
+#: src/ChatView.vala:432
+msgid "Copy selection in clipboard"
+msgstr "Скопировать выбранное в буфер обмена"
+
+#: res/ui/profile-chooser-window.ui:179
+msgid "Create a profile"
+msgstr "Создать профиль"
+
+#: res/ui/profile-chooser-window.ui:154
+msgid "Create this profile"
+msgstr "Создать этот профиль"
+
+#: res/ui/password-dialog.ui:101
+msgid "Current password"
+msgstr "Текущий пароль"
+
+#: src/PasswordDialog.vala:123
+msgid "Current password cannot be blank."
+msgstr "Текущий пароль не может быть пустым."
+
+#: src/SettingsView.vala:96
+msgid "Dark theme"
+msgstr "Тёмная тема"
+
+#: res/ui/main-window.ui:357
+msgid "Decline"
+msgstr "Отказаться"
+
+#: res/ui/settings-view.ui:507
+msgid "Default save path:"
+msgstr "Путь сохранения по умолчанию."
+
+#: res/ui/chat-view.ui:1247
+msgid "Delete"
+msgstr "Удалить"
+
+#: res/ui/friend-list-notification_unusable.ui:59
+msgid "Delete friends (3)"
+msgstr "Удалить из друзей (3)"
+
+#: res/ui/settings-view.ui:1185
+msgid "Display typing notifications?"
+msgstr "Уведомлять, когда собеседник печатает?"
+
+#: res/ui/settings-view.ui:1121
+msgid "Display unread messages notice?"
+msgstr "Уведомлять о непрочитанных сообщениях?"
+
+#: src/SettingsView.vala:419 src/SettingsView.vala:447
+#: src/SettingsView.vala:472
+msgid "Do you want to proceed anyway?"
+msgstr "Всё равно выполнить?"
+
+#: src/SettingsView.vala:446
+msgid "Edit your password"
+msgstr "Изменить пароль"
+
+#: src/SettingsView.vala:418
+msgid "Encrypt your profile"
+msgstr "Зашифровать профиль"
+
+#: res/ui/profile-chooser-window.ui:107
+msgid "Enter a name for the profile"
+msgstr "Введите имя профиля"
+
+#: res/ui/profile-chooser-window.ui:58 res/ui/profile-chooser-window.ui:143
+msgid "Enter your password..."
+msgstr "Введите пароль..."
+
+#: res/ui/chat-view.ui:763
+msgid "Friend's profile"
+msgstr "Профиль друга"
+
+#: res/ui/settings-view.ui:571
+msgid "General"
+msgstr "Основные"
+
+#: res/ui/settings-view.ui:1500
+msgid "GitHub"
+msgstr "GitHub"
+
+#: res/ui/group-chat-view.ui:60
+msgid "Groupchat name"
+msgstr "Название группового чата"
+
+#: src/MainWindow.vala:463
+#, c-format
+msgid "Hello! It's %s, let's be friends."
+msgstr "Привет! Это %s, давай будем друзьями?"
+
+#: src/InlineImageMessageListRow.vala:103
+msgid "Image saved!"
+msgstr "Изображение сохранено!"
+
+#: src/SettingsView.vala:419
+msgid ""
+"In order to encrypt your profile you need to specify a password. This "
+"password will be asked each time you login."
+msgstr "Чтобы зашифровать профиль, необходимо указать пароль. Вы будете вводить этот пароль каждый раз, когда входите."
+
+#: res/ui/chat-view.ui:600
+msgid "Inline code"
+msgstr "Код"
+
+#: res/ui/settings-view.ui:1360
+msgid "Interface"
+msgstr "Интерфейс"
+
+#: res/ui/chat-view.ui:528
+msgid "Italic"
+msgstr "Курсив"
+
+#: res/ui/group-chat-view.ui:289
+msgid "Leave"
+msgstr "Покинуть"
+
+#: res/ui/settings-view.ui:1588
+msgid "License (GNU General Public License 3)"
+msgstr "Лицензия (GNU General Public License 3)"
+
+#: res/ui/profile-chooser-window.ui:91
+msgid "Load a profile"
+msgstr "Загрузить профиль"
+
+#: res/ui/profile-chooser-window.ui:69
+msgid "Login"
+msgstr "Логин"
+
+#: res/ui/group-chat-view.ui:310
+msgid "Mute"
+msgstr "Заглушить"
+
+#: res/ui/settings-view.ui:843
+msgid "Network"
+msgstr "Сеть"
+
+#: res/ui/settings-view.ui:425
+msgid "New Tox alias"
+msgstr "Новый псевдоним Tox"
+
+#: res/ui/password-dialog.ui:138
+msgid "New password"
+msgstr "Новый пароль"
+
+#: src/PasswordDialog.vala:108
+msgid "New password must be different from the older one."
+msgstr "Новый пароль должен отличаться от старого."
+
+#: src/MainWindow.vala:435 src/SettingsView.vala:343
+#: res/ui/password-dialog.ui:32
+msgid "No"
+msgstr "Нет"
+
+#: res/ui/chat-view.ui:1162
+msgid "Notes about the user:"
+msgstr "Заметки о пользователе:"
+
+#: src/Util.vala:173
+msgid "Offline"
+msgstr "Оффлайн"
+
+#: src/MainWindow.vala:488 src/Util.vala:163
+msgid "Online"
+msgstr "Онлайн"
+
+#: src/MainWindow.vala:178
+msgid "Online friends"
+msgstr "Друзья онлайн"
+
+#: res/ui/password-dialog.ui:213
+msgid "Password Strength"
+msgstr "Надёжность пароля"
+
+#: src/PasswordDialog.vala:101 src/PasswordDialog.vala:117
+#: src/PasswordDialog.vala:130
+msgid "Password cannot be blank."
+msgstr "Пароль не может быть пустым"
+
+#: src/PasswordDialog.vala:104 src/PasswordDialog.vala:120
+msgid "Password confirmation cannot be blank."
+msgstr "Подтверждение пароля не может быть пустым."
+
+#: src/PasswordDialog.vala:95 src/PasswordDialog.vala:111
+msgid "Password doesn't match confirmation."
+msgstr "Пароль не совпадает с подтверждением."
+
+#: src/PasswordDialog.vala:98 src/PasswordDialog.vala:114
+#: src/PasswordDialog.vala:127
+msgid "Password must be at least 8 characters."
+msgstr "Пароль должен быть как минимум 8 символов."
+
+#: src/ProfileChooser.vala:98
+msgid "Please enter a password"
+msgstr "Введите пароль"
+
+#: src/ProfileChooser.vala:121
+msgid "Please enter a profile name."
+msgstr "Пожалуйста, введите имя профиля."
+
+#: src/ProfileChooser.vala:128
+msgid "Profile name already taken."
+msgstr "Имя профиля уже занято."
+
+#: src/MainWindow.vala:518
+msgid "Quit"
+msgstr "Выход"
+
+#: res/ui/chat-view.ui:433
+msgid "Quote"
+msgstr "Цитата"
+
+#: src/ChatView.vala:434
+msgid "Quote selection"
+msgstr "Цитировать выделенное"
+
+#: res/ui/settings-view.ui:962
+msgid "Reload custom theme"
+msgstr "Перезагрузить пользовательскую тему"
+
+#: res/ui/settings-view.ui:225
+msgid "Remove password"
+msgstr "Удалить пароль"
+
+#: res/ui/password-dialog.ui:62
+msgid "Remove password?"
+msgstr "Удалить пароль?"
+
+#: src/SettingsView.vala:472
+msgid ""
+"Removing your password will unencrypt your profile, chat logs and settings."
+msgstr "Если вы удалите пароль, Ваш профиль, логи сообщений и настройки будут расшифрованы."
+
+#: res/ui/password-dialog.ui:79
+msgid ""
+"Removing your password will unencrypt your profile, chat logs and settings. "
+"<b>Do you want to proceed anyway?</b>"
+msgstr "Если вы удалите пароль, Ваш профиль, логи сообщений и настройки будут расшифрованы. <b>Продолжить всё равно?</b>"
+
+#: res/ui/settings-view.ui:1519
+msgid "Report an issue"
+msgstr "Сообщить о проблеме"
+
+#: res/ui/settings-view.ui:458
+msgid "Request deletion"
+msgstr "Запросить удаление"
+
+#: src/MainWindow.vala:592
+msgid "Restart later"
+msgstr "Перезапустить позже"
+
+#: src/MainWindow.vala:592
+msgid "Restart now"
+msgstr "Перезапустить сейчас"
+
+#: src/MainWindow.vala:589
+msgid "Restart required"
+msgstr "Необходим перезапуск"
+
+#: src/MainWindow.vala:668
+msgid "Ricin doesn't supports ToxDNS yet."
+msgstr "Ricin ещё не поддерживает ToxDNS."
+
+#: src/MainWindow.vala:591
+msgid ""
+"Ricin needs to restart in order to apply settings. Do you want to restart?"
+msgstr "Для применения настроек необходим перезапуск. Перезапустить сейчас?"
+
+#: res/ui/settings-view.ui:1608
+msgid "Ricin official website"
+msgstr "Официальный сайт Ricin"
+
+#: res/ui/chat-view.ui:1615
+msgid "Scroll to bottom"
+msgstr "Прокрутить вниз"
+
+#: res/ui/welcome-view.ui:87
+msgid "Select a chat to start messaging."
+msgstr "Выберите чат для начала общения."
+
+#: src/ProfileChooser.vala:25 res/ui/profile-chooser-window.ui:23
+msgid "Select a profile"
+msgstr "Выберите профиль"
+
+#: src/MainWindow.vala:745
+msgid "Select your avatar"
+msgstr "Выберите аватар"
+
+#: res/ui/chat-view.ui:1502
+msgid "Send file"
+msgstr "Отправить файл"
+
+#: res/ui/chat-view.ui:1528
+msgid "Send message"
+msgstr "Отправить сообщение"
+
+#: src/MainWindow.vala:124 src/MainWindow.vala:608 res/ui/main-window.ui:495
+msgid "Settings"
+msgstr "Настройки"
+
+#: res/ui/chat-view.ui:820
+msgid "Status message..."
+msgstr "Статус..."
+
+#: res/ui/chat-view.ui:636
+msgid "Striked"
+msgstr "Зачёркнутый"
+
+#: res/ui/chat-view.ui:338
+msgid "Syntax"
+msgstr "Синтаксис"
+
+#: res/ui/chat-view.ui:324
+msgid "Tag Name"
+msgstr "Имя тега"
+
+#: src/ProfileChooser.vala:110
+msgid "The selected profile doesn't exists."
+msgstr "Выбранный профиль не существует."
+
+#: res/ui/settings-view.ui:926
+msgid "Theme:"
+msgstr "Тема оформления:"
+
+#: res/ui/chat-view.ui:1597
+msgid "There are unread messages in this chat"
+msgstr "В этом чате есть непрочитанные сообщения"
+
+#: src/MessageListRow.vala:102 src/PlainLabel.vala:22 src/QuoteLabel.vala:22
+msgid "ToxDNS is not supported yet."
+msgstr "ToxDNS ещё не поддерживается."
+
+#: src/MainWindow.vala:670
+msgid "ToxID can't be empty."
+msgstr "ToxID не может быть пустым."
+
+#: src/MainWindow.vala:672
+msgid "ToxID is invalid."
+msgstr "Неверный ToxID"
+
+#: res/ui/main-window.ui:563
+msgid "ToxID to add..."
+msgstr "Добавляемый ToxID"
+
+#: res/ui/settings-view.ui:358
+msgid "ToxMe server"
+msgstr "Сервер ToxMe"
+
+#: res/ui/main-window.ui:191
+msgid "Type to search..."
+msgstr "Введите для поиска..."
+
+#: src/ChatView.vala:559
+msgid "Unblock"
+msgstr "Разблокировать"
+
+#: src/FriendListRow.vala:90
+msgid "Unblock friend"
+msgstr "Разблокировать друга"
+
+#: res/ui/chat-view.ui:564
+msgid "Underline"
+msgstr "Подчёркнутый"
+
+#: src/SettingsView.vala:471
+msgid "Unencrypt your profile"
+msgstr "Расшифровать профиль"
+
+#: res/ui/settings-view.ui:441
+msgid "Update record"
+msgstr "Обновить запись"
+
+#: res/ui/chat-view.ui:797 res/ui/settings-view.ui:336
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: res/ui/chat-view.ui:882
+msgid "Video call friend"
+msgstr "Видеозвонок другу"
+
+#: src/SettingsView.vala:97
+msgid "White theme"
+msgstr "Светлая тема"
+
+#: src/MainWindow.vala:435 src/SettingsView.vala:342
+#: res/ui/password-dialog.ui:19
+msgid "Yes"
+msgstr "Да"
+
+#: res/ui/main-window.ui:261
+msgid "You got a new friend request"
+msgstr "У Вас новый запрос в друзья"
+
+#: src/ChatView.vala:629 src/MainWindow.vala:748 src/SettingsView.vala:396
+msgid "_Cancel"
+msgstr "О_тмена"
+
+#: src/ChatView.vala:630 src/MainWindow.vala:749 src/SettingsView.vala:397
+msgid "_Open"
+msgstr "_Открыть"
+
+#: res/ui/chat-view.ui:589
+msgid "__underline__"
+msgstr "__подчёркнутый__"
+
+#: res/ui/chat-view.ui:578
+msgid "_underline_"
+msgstr "_подчёркнутый_"
+
+#: res/ui/chat-view.ui:615
+msgid "`inline code`"
+msgstr "`код`"
+
+#: src/SettingsView.vala:80
+msgid "default"
+msgstr "по умолчанию"
+
+#: src/ChatView.vala:337
+msgid "is typing"
+msgstr "печатает"
+
+#: res/ui/settings-view.ui:1676
+msgid "ricin.io (stable)"
+msgstr "ricin.io (стабильный)"
+
+#: src/SettingsView.vala:81
+msgid "stable"
+msgstr "стабильный"
+
+#: res/ui/settings-view.ui:1679
+msgid "toxme.io"
+msgstr "toxme.io"
+
+#: res/ui/chat-view.ui:650
+msgid "~striked~"
+msgstr "~зачёркнутый~"
+
+#: res/ui/chat-view.ui:661
+msgid "~~striked~~"
+msgstr "~~зачёркнутый~~"
